@@ -1,0 +1,73 @@
+{
+  "users": [
+    {
+      "email": "dypoduc@mailinator.com",
+      "password": "$2a$10$vGUq4uDeUd9ICY7XKA4wTeAxB/kFGa6nbTFr1h5RfZFx.YEb6qbvK",
+      "id": 1
+    },
+    {
+      "email": "sysilinaqu@mailinator.com",
+      "password": "$2a$10$J7dWdpZhaTbUTVHM.jbMfeYODNmYsuTxqss3jN2p8WvG5dw.rHc/a",
+      "id": 2
+    },
+    {
+      "email": "latifariyadi86@gmail.com",
+      "password": "$2a$10$O3mB.PowxECuKIRLVtp0vejz9wAFNndfcmeFMRq55T8LVuLIQkKGK",
+      "id": 3
+    },
+    {
+      "email": "pehiho@mailinator.com",
+      "password": "$2a$10$rEhVU6KQFXPT1Tp.BapmLuy7c113Xr7CyJmHuUWekp5tusjR0LLlG",
+      "id": 4
+    },
+    {
+      "email": "rotone@mailinator.com",
+      "password": "$2a$10$s5Uh7D.SU7B9u..aB/L5q.VaJxl98lKe.8vpZC9vfKLvRCd8o/P8W",
+      "id": 5
+    },
+    {
+      "email": "wedunukoc@mailinator.com",
+      "password": "$2a$10$I4D72iEJ4QhkwoBkHvJhY.DM6vp1MwVsC4UmVgKgiWbhPt5xOn1Ym",
+      "id": 6
+    },
+    {
+      "email": "jifocumala@mailinator.com",
+      "password": "$2a$10$vtldHKmR/KjzTwiTTRIEjueWvUlFuLQ4tAB1XPjOkTgWmXDhmhVNO",
+      "id": 7
+    },
+    {
+      "email": "latifariyadi87@gmail.com",
+      "password": "$2a$10$QmpMS3HjsW2ZCauf8QAXYOY/KfGV4Jc3xQwYZZv3mScOHeI0/RW5q",
+      "id": 8
+    }
+  ],
+  "blogs": [
+    {
+      "userId": 8,
+      "author": "latifariyadi87@gmail.com",
+      "judul": "Jalan-jalan",
+      "img": "https://images.pexels.com/photos/2387311/pexels-photo-2387311.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,\nmolestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum\nnumquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium\noptio, eaque rerum! Provident similique accusantium nemo autem. Veritatis\nobcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam\nnihil, eveniet aliquid culpa officia aut! Impedit sit sunt quaerat, odit,\ntenetur error, harum nesciunt ipsum debitis quas aliquid. Reprehenderit,\nquia. Quo neque error repudiandae fuga? Ipsa laudantium molestias eos \nsapiente officiis modi at sunt excepturi expedita sint? Sed quibusdam\nrecusandae alias error harum maxime adipisci amet laborum. Perspiciatis \nminima nesciunt dolorem! Officiis iure rerum voluptates a cumque velit \nquibusdam sed amet tempora. Sit laborum ab, eius fugit doloribus tenetur \nfugiat, temporibus enim commodi iusto libero magni deleniti quod quam ",
+      "createDate": "21/9/2022",
+      "id": 5
+    },
+    {
+      "userId": 8,
+      "author": "latifariyadi87@gmail.com",
+      "judul": "Pantai",
+      "img": "https://img.freepik.com/free-photo/aerial-view-kelingking-beach-nusa-penida-island-bali-indonesia_335224-307.jpg?w=740&t=st=1663777216~exp=1663777816~hmac=31cd36be1b317b7ba419a22a82737765cf1ffa0503c7b3a9772d213245819d80",
+      "content": "consequuntur! Commodi minima excepturi repudiandae velit hic maxime\ndoloremque. Quaerat provident commodi consectetur veniam similique ad \nearum omnis ipsum saepe, voluptas, hic voluptates pariatur est explicabo \nfugiat, dolorum eligendi quam cupiditate excepturi mollitia maiores labore \nsuscipit quas? Nulla, placeat. Voluptatem quaerat non architecto ab laudantium\nmodi minima sunt esse temporibus sint culpa, recusandae aliquam numquam \ntotam ratione voluptas quod exercitationem fuga. Possimus quis earum veniam \nquasi aliquam eligendi, placeat qui corporis!",
+      "createDate": "21/9/2022",
+      "id": 6
+    },
+    {
+      "userId": 8,
+      "author": "latifariyadi87@gmail.com",
+      "judul": "City",
+      "img": "https://img.freepik.com/premium-photo/panoramic-jakarta-skyline-with-urban-skyscrapers-afternoon_9083-3318.jpg?w=826",
+      "content": "consequuntur! Commodi minima excepturi repudiandae velit hic maxime\ndoloremque. Quaerat provident commodi consectetur veniam similique ad \nearum omnis ipsum saepe, voluptas, hic voluptates pariatur est explicabo \nfugiat, dolorum eligendi quam cupiditate excepturi mollitia maiores labore \nsuscipit quas? Nulla, placeat. Voluptatem quaerat non architecto ab laudantium\nmodi minima sunt esse temporibus sint culpa, recusandae aliquam numquam \ntotam ratione voluptas quod exercitationem fuga. Possimus quis earum veniam \nquasi aliquam eligendi, placeat qui corporis!",
+      "createDate": "21/9/2022",
+      "id": 7
+    }
+  ]
+}
